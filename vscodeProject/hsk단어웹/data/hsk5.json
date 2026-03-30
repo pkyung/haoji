@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "hanzi": "爱好",
+    "pinyin": "àihào",
+    "meaning": "취미"
+  },
+  {
+    "id": 2,
+    "hanzi": "安慰",
+    "pinyin": "ānwèi",
+    "meaning": "위로하다"
+  },
+  {
+    "id": 3,
+    "hanzi": "安装",
+    "pinyin": "ānzhuāng",
+    "meaning": "설치하다"
+  },
+  {
+    "id": 4,
+    "hanzi": "岸",
+    "pinyin": "àn",
+    "meaning": "해안, 강가"
+  },
+  {
+    "id": 5,
+    "hanzi": "把握",
+    "pinyin": "bǎwò",
+    "meaning": "확신, 파악하다"
+  },
+  {
+    "id": 6,
+    "hanzi": "摆",
+    "pinyin": "bǎi",
+    "meaning": "놓다, 흔들다"
+  },
+  {
+    "id": 7,
+    "hanzi": "办理",
+    "pinyin": "bànlǐ",
+    "meaning": "처리하다"
+  },
+  {
+    "id": 8,
+    "hanzi": "傍晚",
+    "pinyin": "bàngwǎn",
+    "meaning": "저녁 무렵"
+  },
+  {
+    "id": 9,
+    "hanzi": "包含",
+    "pinyin": "bāohán",
+    "meaning": "포함하다"
+  },
+  {
+    "id": 10,
+    "hanzi": "包括",
+    "pinyin": "bāokuò",
+    "meaning": "포괄하다"
+  },
+  {
+    "id": 11,
+    "hanzi": "薄",
+    "pinyin": "báo",
+    "meaning": "얇다"
+  },
+  {
+    "id": 12,
+    "hanzi": "宝贵",
+    "pinyin": "bǎoguì",
+    "meaning": "귀중하다"
+  },
+  {
+    "id": 13,
+    "hanzi": "保持",
+    "pinyin": "bǎochí",
+    "meaning": "유지하다"
+  },
+  {
+    "id": 14,
+    "hanzi": "保存",
+    "pinyin": "bǎocún",
+    "meaning": "보존하다"
+  },
+  {
+    "id": 15,
+    "hanzi": "保留",
+    "pinyin": "bǎoliú",
+    "meaning": "보류하다"
+  },
+  {
+    "id": 16,
+    "hanzi": "保险",
+    "pinyin": "bǎoxiǎn",
+    "meaning": "보험"
+  },
+  {
+    "id": 17,
+    "hanzi": "报到",
+    "pinyin": "bàodào",
+    "meaning": "신고하다, 등록하다"
+  },
+  {
+    "id": 18,
+    "hanzi": "报道",
+    "pinyin": "bàodào",
+    "meaning": "보도하다"
+  },
+  {
+    "id": 19,
+    "hanzi": "报告",
+    "pinyin": "bàogào",
+    "meaning": "보고서"
+  },
+  {
+    "id": 20,
+    "hanzi": "悲观",
+    "pinyin": "bēiguān",
+    "meaning": "비관적이다"
+  },
+  {
+    "id": 21,
+    "hanzi": "背景",
+    "pinyin": "bèijǐng",
+    "meaning": "배경"
+  },
+  {
+    "id": 22,
+    "hanzi": "本科",
+    "pinyin": "běnkē",
+    "meaning": "학부"
+  },
+  {
+    "id": 23,
+    "hanzi": "本领",
+    "pinyin": "běnlǐng",
+    "meaning": "능력, 재능"
+  },
+  {
+    "id": 24,
+    "hanzi": "本质",
+    "pinyin": "běnzhì",
+    "meaning": "본질"
+  },
+  {
+    "id": 25,
+    "hanzi": "比例",
+    "pinyin": "bǐlì",
+    "meaning": "비율"
+  },
+  {
+    "id": 26,
+    "hanzi": "彼此",
+    "pinyin": "bǐcǐ",
+    "meaning": "서로"
+  },
+  {
+    "id": 27,
+    "hanzi": "必然",
+    "pinyin": "bìrán",
+    "meaning": "필연적이다"
+  },
+  {
+    "id": 28,
+    "hanzi": "必要",
+    "pinyin": "bìyào",
+    "meaning": "필요하다"
+  },
+  {
+    "id": 29,
+    "hanzi": "毕竟",
+    "pinyin": "bìjìng",
+    "meaning": "결국, 어쨌든"
+  },
+  {
+    "id": 30,
+    "hanzi": "避免",
+    "pinyin": "bìmiǎn",
+    "meaning": "피하다"
+  },
+  {
+    "id": 31,
+    "hanzi": "编辑",
+    "pinyin": "biānjí",
+    "meaning": "편집하다"
+  },
+  {
+    "id": 32,
+    "hanzi": "变化",
+    "pinyin": "biànhuà",
+    "meaning": "변화"
+  },
+  {
+    "id": 33,
+    "hanzi": "标准",
+    "pinyin": "biāozhǔn",
+    "meaning": "기준, 표준"
+  },
+  {
+    "id": 34,
+    "hanzi": "表达",
+    "pinyin": "biǎodá",
+    "meaning": "표현하다"
+  },
+  {
+    "id": 35,
+    "hanzi": "表面",
+    "pinyin": "biǎomiàn",
+    "meaning": "표면"
+  },
+  {
+    "id": 36,
+    "hanzi": "表明",
+    "pinyin": "biǎomíng",
+    "meaning": "나타내다, 밝히다"
+  },
+  {
+    "id": 37,
+    "hanzi": "表情",
+    "pinyin": "biǎoqíng",
+    "meaning": "표정"
+  },
+  {
+    "id": 38,
+    "hanzi": "表现",
+    "pinyin": "biǎoxiàn",
+    "meaning": "표현, 행동"
+  },
+  {
+    "id": 39,
+    "hanzi": "并非",
+    "pinyin": "bìngfēi",
+    "meaning": "결코 ~이 아니다"
+  },
+  {
+    "id": 40,
+    "hanzi": "博士",
+    "pinyin": "bóshì",
+    "meaning": "박사"
+  },
+  {
+    "id": 41,
+    "hanzi": "补充",
+    "pinyin": "bǔchōng",
+    "meaning": "보충하다"
+  },
+  {
+    "id": 42,
+    "hanzi": "不得不",
+    "pinyin": "bùdébù",
+    "meaning": "어쩔 수 없이"
+  },
+  {
+    "id": 43,
+    "hanzi": "不断",
+    "pinyin": "búduàn",
+    "meaning": "끊임없이"
+  },
+  {
+    "id": 44,
+    "hanzi": "不足",
+    "pinyin": "bùzú",
+    "meaning": "부족하다"
+  },
+  {
+    "id": 45,
+    "hanzi": "布置",
+    "pinyin": "bùzhì",
+    "meaning": "배치하다, 꾸미다"
+  },
+  {
+    "id": 46,
+    "hanzi": "步骤",
+    "pinyin": "bùzhòu",
+    "meaning": "단계, 절차"
+  },
+  {
+    "id": 47,
+    "hanzi": "部分",
+    "pinyin": "bùfen",
+    "meaning": "부분"
+  },
+  {
+    "id": 48,
+    "hanzi": "财富",
+    "pinyin": "cáifù",
+    "meaning": "재산, 부"
+  },
+  {
+    "id": 49,
+    "hanzi": "采取",
+    "pinyin": "cǎiqǔ",
+    "meaning": "채택하다"
+  },
+  {
+    "id": 50,
+    "hanzi": "参考",
+    "pinyin": "cānkǎo",
+    "meaning": "참고하다"
+  },
+  {
+    "id": 51,
+    "hanzi": "策略",
+    "pinyin": "cèlüè",
+    "meaning": "전략"
+  },
+  {
+    "id": 52,
+    "hanzi": "层次",
+    "pinyin": "céngcì",
+    "meaning": "층차, 단계"
+  },
+  {
+    "id": 53,
+    "hanzi": "差距",
+    "pinyin": "chājù",
+    "meaning": "격차"
+  },
+  {
+    "id": 54,
+    "hanzi": "长期",
+    "pinyin": "chángqī",
+    "meaning": "장기간"
+  },
+  {
+    "id": 55,
+    "hanzi": "常识",
+    "pinyin": "chángshí",
+    "meaning": "상식"
+  },
+  {
+    "id": 56,
+    "hanzi": "超过",
+    "pinyin": "chāoguò",
+    "meaning": "초과하다"
+  },
+  {
+    "id": 57,
+    "hanzi": "彻底",
+    "pinyin": "chèdǐ",
+    "meaning": "철저하다"
+  },
+  {
+    "id": 58,
+    "hanzi": "沉默",
+    "pinyin": "chénmò",
+    "meaning": "침묵하다"
+  },
+  {
+    "id": 59,
+    "hanzi": "成分",
+    "pinyin": "chéngfèn",
+    "meaning": "성분"
+  },
+  {
+    "id": 60,
+    "hanzi": "成果",
+    "pinyin": "chéngguǒ",
+    "meaning": "성과"
+  },
+  {
+    "id": 61,
+    "hanzi": "成就",
+    "pinyin": "chéngjiù",
+    "meaning": "성취"
+  },
+  {
+    "id": 62,
+    "hanzi": "成立",
+    "pinyin": "chénglì",
+    "meaning": "설립하다"
+  },
+  {
+    "id": 63,
+    "hanzi": "承担",
+    "pinyin": "chéngdān",
+    "meaning": "담당하다"
+  },
+  {
+    "id": 64,
+    "hanzi": "承认",
+    "pinyin": "chéngrèn",
+    "meaning": "인정하다"
+  },
+  {
+    "id": 65,
+    "hanzi": "程度",
+    "pinyin": "chéngdù",
+    "meaning": "정도"
+  },
+  {
+    "id": 66,
+    "hanzi": "迟早",
+    "pinyin": "chízǎo",
+    "meaning": "조만간"
+  },
+  {
+    "id": 67,
+    "hanzi": "充分",
+    "pinyin": "chōngfèn",
+    "meaning": "충분하다"
+  },
+  {
+    "id": 68,
+    "hanzi": "重复",
+    "pinyin": "chóngfù",
+    "meaning": "반복하다"
+  },
+  {
+    "id": 69,
+    "hanzi": "出发",
+    "pinyin": "chūfā",
+    "meaning": "출발하다"
+  },
+  {
+    "id": 70,
+    "hanzi": "出现",
+    "pinyin": "chūxiàn",
+    "meaning": "출현하다"
+  },
+  {
+    "id": 71,
+    "hanzi": "传统",
+    "pinyin": "chuántǒng",
+    "meaning": "전통"
+  },
+  {
+    "id": 72,
+    "hanzi": "创造",
+    "pinyin": "chuàngzào",
+    "meaning": "창조하다"
+  },
+  {
+    "id": 73,
+    "hanzi": "此外",
+    "pinyin": "cǐwài",
+    "meaning": "이 밖에"
+  },
+  {
+    "id": 74,
+    "hanzi": "促进",
+    "pinyin": "cùjìn",
+    "meaning": "촉진하다"
+  },
+  {
+    "id": 75,
+    "hanzi": "存在",
+    "pinyin": "cúnzài",
+    "meaning": "존재하다"
+  },
+  {
+    "id": 76,
+    "hanzi": "措施",
+    "pinyin": "cuòshī",
+    "meaning": "조치"
+  },
+  {
+    "id": 77,
+    "hanzi": "达到",
+    "pinyin": "dádào",
+    "meaning": "달성하다"
+  },
+  {
+    "id": 78,
+    "hanzi": "大量",
+    "pinyin": "dàliàng",
+    "meaning": "대량"
+  },
+  {
+    "id": 79,
+    "hanzi": "大约",
+    "pinyin": "dàyuē",
+    "meaning": "대략"
+  },
+  {
+    "id": 80,
+    "hanzi": "代替",
+    "pinyin": "dàitì",
+    "meaning": "대체하다"
+  },
+  {
+    "id": 81,
+    "hanzi": "担任",
+    "pinyin": "dānrèn",
+    "meaning": "맡다"
+  },
+  {
+    "id": 82,
+    "hanzi": "单独",
+    "pinyin": "dāndú",
+    "meaning": "단독으로"
+  },
+  {
+    "id": 83,
+    "hanzi": "当地",
+    "pinyin": "dāngdì",
+    "meaning": "현지"
+  },
+  {
+    "id": 84,
+    "hanzi": "导致",
+    "pinyin": "dǎozhì",
+    "meaning": "야기하다"
+  },
+  {
+    "id": 85,
+    "hanzi": "的确",
+    "pinyin": "díquè",
+    "meaning": "확실히"
+  },
+  {
+    "id": 86,
+    "hanzi": "地位",
+    "pinyin": "dìwèi",
+    "meaning": "지위"
+  },
+  {
+    "id": 87,
+    "hanzi": "典型",
+    "pinyin": "diǎnxíng",
+    "meaning": "전형적이다"
+  },
+  {
+    "id": 88,
+    "hanzi": "调查",
+    "pinyin": "diàochá",
+    "meaning": "조사하다"
+  },
+  {
+    "id": 89,
+    "hanzi": "独特",
+    "pinyin": "dútè",
+    "meaning": "독특하다"
+  },
+  {
+    "id": 90,
+    "hanzi": "对比",
+    "pinyin": "duìbǐ",
+    "meaning": "대비하다"
+  },
+  {
+    "id": 91,
+    "hanzi": "对待",
+    "pinyin": "duìdài",
+    "meaning": "대하다"
+  },
+  {
+    "id": 92,
+    "hanzi": "对方",
+    "pinyin": "duìfāng",
+    "meaning": "상대방"
+  },
+  {
+    "id": 93,
+    "hanzi": "对于",
+    "pinyin": "duìyú",
+    "meaning": "~에 대하여"
+  },
+  {
+    "id": 94,
+    "hanzi": "儿童",
+    "pinyin": "értóng",
+    "meaning": "아동"
+  },
+  {
+    "id": 95,
+    "hanzi": "发挥",
+    "pinyin": "fāhuī",
+    "meaning": "발휘하다"
+  },
+  {
+    "id": 96,
+    "hanzi": "发展",
+    "pinyin": "fāzhǎn",
+    "meaning": "발전하다"
+  },
+  {
+    "id": 97,
+    "hanzi": "方案",
+    "pinyin": "fāng'àn",
+    "meaning": "방안"
+  },
+  {
+    "id": 98,
+    "hanzi": "方式",
+    "pinyin": "fāngshì",
+    "meaning": "방식"
+  },
+  {
+    "id": 99,
+    "hanzi": "仿佛",
+    "pinyin": "fǎngfú",
+    "meaning": "마치 ~같다"
+  },
+  {
+    "id": 100,
+    "hanzi": "分析",
+    "pinyin": "fēnxī",
+    "meaning": "분석하다"
+  },
+  {
+    "id": 101,
+    "hanzi": "风格",
+    "pinyin": "fēnggé",
+    "meaning": "스타일"
+  },
+  {
+    "id": 102,
+    "hanzi": "否则",
+    "pinyin": "fǒuzé",
+    "meaning": "그렇지 않으면"
+  },
+  {
+    "id": 103,
+    "hanzi": "复杂",
+    "pinyin": "fùzá",
+    "meaning": "복잡하다"
+  },
+  {
+    "id": 104,
+    "hanzi": "改变",
+    "pinyin": "gǎibiàn",
+    "meaning": "변화시키다"
+  },
+  {
+    "id": 105,
+    "hanzi": "概念",
+    "pinyin": "gàiniàn",
+    "meaning": "개념"
+  },
+  {
+    "id": 106,
+    "hanzi": "干脆",
+    "pinyin": "gāncuì",
+    "meaning": "아예, 차라리"
+  },
+  {
+    "id": 107,
+    "hanzi": "感激",
+    "pinyin": "gǎnjī",
+    "meaning": "감격하다"
+  },
+  {
+    "id": 108,
+    "hanzi": "高级",
+    "pinyin": "gāojí",
+    "meaning": "고급"
+  },
+  {
+    "id": 109,
+    "hanzi": "各自",
+    "pinyin": "gèzì",
+    "meaning": "각자"
+  },
+  {
+    "id": 110,
+    "hanzi": "工程",
+    "pinyin": "gōngchéng",
+    "meaning": "공사, 프로젝트"
+  },
+  {
+    "id": 111,
+    "hanzi": "工具",
+    "pinyin": "gōngjù",
+    "meaning": "도구"
+  },
+  {
+    "id": 112,
+    "hanzi": "公平",
+    "pinyin": "gōngpíng",
+    "meaning": "공평하다"
+  },
+  {
+    "id": 113,
+    "hanzi": "贡献",
+    "pinyin": "gòngxiàn",
+    "meaning": "공헌하다"
+  },
+  {
+    "id": 114,
+    "hanzi": "沟通",
+    "pinyin": "gōutōng",
+    "meaning": "소통하다"
+  },
+  {
+    "id": 115,
+    "hanzi": "构成",
+    "pinyin": "gòuchéng",
+    "meaning": "구성하다"
+  },
+  {
+    "id": 116,
+    "hanzi": "孤独",
+    "pinyin": "gūdú",
+    "meaning": "고독하다"
+  },
+  {
+    "id": 117,
+    "hanzi": "观念",
+    "pinyin": "guānniàn",
+    "meaning": "관념"
+  },
+  {
+    "id": 118,
+    "hanzi": "规律",
+    "pinyin": "guīlǜ",
+    "meaning": "규칙, 법칙"
+  },
+  {
+    "id": 119,
+    "hanzi": "规模",
+    "pinyin": "guīmó",
+    "meaning": "규모"
+  },
+  {
+    "id": 120,
+    "hanzi": "含义",
+    "pinyin": "hányì",
+    "meaning": "함의, 의미"
+  },
+  {
+    "id": 121,
+    "hanzi": "好奇",
+    "pinyin": "hàoqí",
+    "meaning": "호기심이 많다"
+  },
+  {
+    "id": 122,
+    "hanzi": "合理",
+    "pinyin": "hélǐ",
+    "meaning": "합리적이다"
+  },
+  {
+    "id": 123,
+    "hanzi": "核心",
+    "pinyin": "héxīn",
+    "meaning": "핵심"
+  },
+  {
+    "id": 124,
+    "hanzi": "后果",
+    "pinyin": "hòuguǒ",
+    "meaning": "결과, 후과"
+  },
+  {
+    "id": 125,
+    "hanzi": "忽视",
+    "pinyin": "hūshì",
+    "meaning": "무시하다"
+  },
+  {
+    "id": 126,
+    "hanzi": "互相",
+    "pinyin": "hùxiāng",
+    "meaning": "서로"
+  },
+  {
+    "id": 127,
+    "hanzi": "获得",
+    "pinyin": "huòdé",
+    "meaning": "획득하다"
+  },
+  {
+    "id": 128,
+    "hanzi": "基础",
+    "pinyin": "jīchǔ",
+    "meaning": "기초"
+  },
+  {
+    "id": 129,
+    "hanzi": "基本",
+    "pinyin": "jīběn",
+    "meaning": "기본적인"
+  },
+  {
+    "id": 130,
+    "hanzi": "激烈",
+    "pinyin": "jīliè",
+    "meaning": "격렬하다"
+  },
+  {
+    "id": 131,
+    "hanzi": "及时",
+    "pinyin": "jíshí",
+    "meaning": "제때에"
+  },
+  {
+    "id": 132,
+    "hanzi": "集中",
+    "pinyin": "jízhōng",
+    "meaning": "집중하다"
+  },
+  {
+    "id": 133,
+    "hanzi": "计划",
+    "pinyin": "jìhuà",
+    "meaning": "계획"
+  },
+  {
+    "id": 134,
+    "hanzi": "技术",
+    "pinyin": "jìshù",
+    "meaning": "기술"
+  },
+  {
+    "id": 135,
+    "hanzi": "坚持",
+    "pinyin": "jiānchí",
+    "meaning": "지속하다"
+  },
+  {
+    "id": 136,
+    "hanzi": "坚定",
+    "pinyin": "jiāndìng",
+    "meaning": "확고하다"
+  },
+  {
+    "id": 137,
+    "hanzi": "减少",
+    "pinyin": "jiǎnshǎo",
+    "meaning": "줄이다"
+  },
+  {
+    "id": 138,
+    "hanzi": "建立",
+    "pinyin": "jiànlì",
+    "meaning": "건립하다"
+  },
+  {
+    "id": 139,
+    "hanzi": "结合",
+    "pinyin": "jiéhé",
+    "meaning": "결합하다"
+  },
+  {
+    "id": 140,
+    "hanzi": "解决",
+    "pinyin": "jiějué",
+    "meaning": "해결하다"
+  },
+  {
+    "id": 141,
+    "hanzi": "尽管",
+    "pinyin": "jǐnguǎn",
+    "meaning": "비록 ~이지만"
+  },
+  {
+    "id": 142,
+    "hanzi": "经济",
+    "pinyin": "jīngjì",
+    "meaning": "경제"
+  },
+  {
+    "id": 143,
+    "hanzi": "经历",
+    "pinyin": "jīnglì",
+    "meaning": "경험하다"
+  },
+  {
+    "id": 144,
+    "hanzi": "竟然",
+    "pinyin": "jìngrán",
+    "meaning": "뜻밖에"
+  },
+  {
+    "id": 145,
+    "hanzi": "究竟",
+    "pinyin": "jiūjìng",
+    "meaning": "도대체"
+  },
+  {
+    "id": 146,
+    "hanzi": "局面",
+    "pinyin": "júmiàn",
+    "meaning": "국면"
+  },
+  {
+    "id": 147,
+    "hanzi": "举行",
+    "pinyin": "jǔxíng",
+    "meaning": "거행하다"
+  },
+  {
+    "id": 148,
+    "hanzi": "具备",
+    "pinyin": "jùbèi",
+    "meaning": "갖추다"
+  },
+  {
+    "id": 149,
+    "hanzi": "具体",
+    "pinyin": "jùtǐ",
+    "meaning": "구체적이다"
+  },
+  {
+    "id": 150,
+    "hanzi": "决心",
+    "pinyin": "juéxīn",
+    "meaning": "결심"
+  },
+  {
+    "id": 151,
+    "hanzi": "开展",
+    "pinyin": "kāizhǎn",
+    "meaning": "전개하다"
+  },
+  {
+    "id": 152,
+    "hanzi": "看法",
+    "pinyin": "kànfǎ",
+    "meaning": "견해"
+  },
+  {
+    "id": 153,
+    "hanzi": "科学",
+    "pinyin": "kēxué",
+    "meaning": "과학"
+  },
+  {
+    "id": 154,
+    "hanzi": "克服",
+    "pinyin": "kèfú",
+    "meaning": "극복하다"
+  },
+  {
+    "id": 155,
+    "hanzi": "空间",
+    "pinyin": "kōngjiān",
+    "meaning": "공간"
+  },
+  {
+    "id": 156,
+    "hanzi": "控制",
+    "pinyin": "kòngzhì",
+    "meaning": "통제하다"
+  },
+  {
+    "id": 157,
+    "hanzi": "扩大",
+    "pinyin": "kuòdà",
+    "meaning": "확대하다"
+  },
+  {
+    "id": 158,
+    "hanzi": "来自",
+    "pinyin": "láizì",
+    "meaning": "~로부터 오다"
+  },
+  {
+    "id": 159,
+    "hanzi": "理论",
+    "pinyin": "lǐlùn",
+    "meaning": "이론"
+  },
+  {
+    "id": 160,
+    "hanzi": "理解",
+    "pinyin": "lǐjiě",
+    "meaning": "이해하다"
+  },
+  {
+    "id": 161,
+    "hanzi": "力量",
+    "pinyin": "lìliàng",
+    "meaning": "힘, 역량"
+  },
+  {
+    "id": 162,
+    "hanzi": "联系",
+    "pinyin": "liánxì",
+    "meaning": "연락하다"
+  },
+  {
+    "id": 163,
+    "hanzi": "了解",
+    "pinyin": "liǎojiě",
+    "meaning": "이해하다, 알다"
+  },
+  {
+    "id": 164,
+    "hanzi": "领域",
+    "pinyin": "lǐngyù",
+    "meaning": "영역"
+  },
+  {
+    "id": 165,
+    "hanzi": "逻辑",
+    "pinyin": "luójí",
+    "meaning": "논리"
+  },
+  {
+    "id": 166,
+    "hanzi": "满足",
+    "pinyin": "mǎnzú",
+    "meaning": "만족하다"
+  },
+  {
+    "id": 167,
+    "hanzi": "矛盾",
+    "pinyin": "máodùn",
+    "meaning": "모순"
+  },
+  {
+    "id": 168,
+    "hanzi": "面临",
+    "pinyin": "miànlín",
+    "meaning": "직면하다"
+  },
+  {
+    "id": 169,
+    "hanzi": "明显",
+    "pinyin": "míngxiǎn",
+    "meaning": "명백하다"
+  },
+  {
+    "id": 170,
+    "hanzi": "目标",
+    "pinyin": "mùbiāo",
+    "meaning": "목표"
+  },
+  {
+    "id": 171,
+    "hanzi": "内容",
+    "pinyin": "nèiróng",
+    "meaning": "내용"
+  },
+  {
+    "id": 172,
+    "hanzi": "能力",
+    "pinyin": "nénglì",
+    "meaning": "능력"
+  },
+  {
+    "id": 173,
+    "hanzi": "培养",
+    "pinyin": "péiyǎng",
+    "meaning": "양성하다"
+  },
+  {
+    "id": 174,
+    "hanzi": "批评",
+    "pinyin": "pīpíng",
+    "meaning": "비판하다"
+  },
+  {
+    "id": 175,
+    "hanzi": "平衡",
+    "pinyin": "pínghéng",
+    "meaning": "균형"
+  },
+  {
+    "id": 176,
+    "hanzi": "普遍",
+    "pinyin": "pǔbiàn",
+    "meaning": "보편적이다"
+  },
+  {
+    "id": 177,
+    "hanzi": "强调",
+    "pinyin": "qiángdiào",
+    "meaning": "강조하다"
+  },
+  {
+    "id": 178,
+    "hanzi": "确定",
+    "pinyin": "quèdìng",
+    "meaning": "확정하다"
+  },
+  {
+    "id": 179,
+    "hanzi": "缺乏",
+    "pinyin": "quēfá",
+    "meaning": "부족하다"
+  },
+  {
+    "id": 180,
+    "hanzi": "热情",
+    "pinyin": "rèqíng",
+    "meaning": "열정"
+  },
+  {
+    "id": 181,
+    "hanzi": "人才",
+    "pinyin": "réncái",
+    "meaning": "인재"
+  },
+  {
+    "id": 182,
+    "hanzi": "任何",
+    "pinyin": "rènhé",
+    "meaning": "어떤"
+  },
+  {
+    "id": 183,
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "meaning": "알다, 인식"
+  },
+  {
+    "id": 184,
+    "hanzi": "融合",
+    "pinyin": "rónghé",
+    "meaning": "융합하다"
+  },
+  {
+    "id": 185,
+    "hanzi": "如今",
+    "pinyin": "rújīn",
+    "meaning": "지금, 오늘날"
+  },
+  {
+    "id": 186,
+    "hanzi": "社会",
+    "pinyin": "shèhuì",
+    "meaning": "사회"
+  },
+  {
+    "id": 187,
+    "hanzi": "深刻",
+    "pinyin": "shēnkè",
+    "meaning": "심오하다"
+  },
+  {
+    "id": 188,
+    "hanzi": "生产",
+    "pinyin": "shēngchǎn",
+    "meaning": "생산하다"
+  },
+  {
+    "id": 189,
+    "hanzi": "失去",
+    "pinyin": "shīqù",
+    "meaning": "잃다"
+  },
+  {
+    "id": 190,
+    "hanzi": "实际",
+    "pinyin": "shíjì",
+    "meaning": "실제"
+  },
+  {
+    "id": 191,
+    "hanzi": "实现",
+    "pinyin": "shíxiàn",
+    "meaning": "실현하다"
+  },
+  {
+    "id": 192,
+    "hanzi": "事实",
+    "pinyin": "shìshí",
+    "meaning": "사실"
+  },
+  {
+    "id": 193,
+    "hanzi": "适合",
+    "pinyin": "shìhé",
+    "meaning": "적합하다"
+  },
+  {
+    "id": 194,
+    "hanzi": "收获",
+    "pinyin": "shōuhuò",
+    "meaning": "수확, 얻다"
+  },
+  {
+    "id": 195,
+    "hanzi": "手段",
+    "pinyin": "shǒuduàn",
+    "meaning": "수단"
+  },
+  {
+    "id": 196,
+    "hanzi": "水平",
+    "pinyin": "shuǐpíng",
+    "meaning": "수준"
+  },
+  {
+    "id": 197,
+    "hanzi": "思想",
+    "pinyin": "sīxiǎng",
+    "meaning": "사상, 생각"
+  },
+  {
+    "id": 198,
+    "hanzi": "速度",
+    "pinyin": "sùdù",
+    "meaning": "속도"
+  },
+  {
+    "id": 199,
+    "hanzi": "虽然",
+    "pinyin": "suīrán",
+    "meaning": "비록 ~이지만"
+  },
+  {
+    "id": 200,
+    "hanzi": "提高",
+    "pinyin": "tígāo",
+    "meaning": "높이다"
+  },
+  {
+    "id": 201,
+    "hanzi": "提供",
+    "pinyin": "tígōng",
+    "meaning": "제공하다"
+  },
+  {
+    "id": 202,
+    "hanzi": "体现",
+    "pinyin": "tǐxiàn",
+    "meaning": "구현하다"
+  },
+  {
+    "id": 203,
+    "hanzi": "通过",
+    "pinyin": "tōngguò",
+    "meaning": "통과하다"
+  },
+  {
+    "id": 204,
+    "hanzi": "统一",
+    "pinyin": "tǒngyī",
+    "meaning": "통일하다"
+  },
+  {
+    "id": 205,
+    "hanzi": "突出",
+    "pinyin": "tūchū",
+    "meaning": "두드러지다"
+  },
+  {
+    "id": 206,
+    "hanzi": "推动",
+    "pinyin": "tuīdòng",
+    "meaning": "추진하다"
+  },
+  {
+    "id": 207,
+    "hanzi": "完善",
+    "pinyin": "wánshàn",
+    "meaning": "완벽하게 하다"
+  },
+  {
+    "id": 208,
+    "hanzi": "维护",
+    "pinyin": "wéihù",
+    "meaning": "수호하다"
+  },
+  {
+    "id": 209,
+    "hanzi": "文化",
+    "pinyin": "wénhuà",
+    "meaning": "문화"
+  },
+  {
+    "id": 210,
+    "hanzi": "稳定",
+    "pinyin": "wěndìng",
+    "meaning": "안정적이다"
+  },
+  {
+    "id": 211,
+    "hanzi": "无论",
+    "pinyin": "wúlùn",
+    "meaning": "~에 관계없이"
+  },
+  {
+    "id": 212,
+    "hanzi": "现象",
+    "pinyin": "xiànxiàng",
+    "meaning": "현상"
+  },
+  {
+    "id": 213,
+    "hanzi": "相当",
+    "pinyin": "xiāngdāng",
+    "meaning": "상당하다"
+  },
+  {
+    "id": 214,
+    "hanzi": "相关",
+    "pinyin": "xiāngguān",
+    "meaning": "관련된"
+  },
+  {
+    "id": 215,
+    "hanzi": "效果",
+    "pinyin": "xiàoguǒ",
+    "meaning": "효과"
+  },
+  {
+    "id": 216,
+    "hanzi": "心理",
+    "pinyin": "xīnlǐ",
+    "meaning": "심리"
+  },
+  {
+    "id": 217,
+    "hanzi": "行为",
+    "pinyin": "xíngwéi",
+    "meaning": "행위"
+  },
+  {
+    "id": 218,
+    "hanzi": "形成",
+    "pinyin": "xíngchéng",
+    "meaning": "형성하다"
+  },
+  {
+    "id": 219,
+    "hanzi": "需求",
+    "pinyin": "xūqiú",
+    "meaning": "수요"
+  },
+  {
+    "id": 220,
+    "hanzi": "选择",
+    "pinyin": "xuǎnzé",
+    "meaning": "선택하다"
+  },
+  {
+    "id": 221,
+    "hanzi": "压力",
+    "pinyin": "yālì",
+    "meaning": "압력, 스트레스"
+  },
+  {
+    "id": 222,
+    "hanzi": "严格",
+    "pinyin": "yángé",
+    "meaning": "엄격하다"
+  },
+  {
+    "id": 223,
+    "hanzi": "研究",
+    "pinyin": "yánjiū",
+    "meaning": "연구하다"
+  },
+  {
+    "id": 224,
+    "hanzi": "依靠",
+    "pinyin": "yīkào",
+    "meaning": "의지하다"
+  },
+  {
+    "id": 225,
+    "hanzi": "因此",
+    "pinyin": "yīncǐ",
+    "meaning": "따라서"
+  },
+  {
+    "id": 226,
+    "hanzi": "因素",
+    "pinyin": "yīnsù",
+    "meaning": "요인"
+  },
+  {
+    "id": 227,
+    "hanzi": "影响",
+    "pinyin": "yǐngxiǎng",
+    "meaning": "영향"
+  },
+  {
+    "id": 228,
+    "hanzi": "勇气",
+    "pinyin": "yǒngqì",
+    "meaning": "용기"
+  },
+  {
+    "id": 229,
+    "hanzi": "优势",
+    "pinyin": "yōushì",
+    "meaning": "우세, 강점"
+  },
+  {
+    "id": 230,
+    "hanzi": "有效",
+    "pinyin": "yǒuxiào",
+    "meaning": "유효하다"
+  },
+  {
+    "id": 231,
+    "hanzi": "原则",
+    "pinyin": "yuánzé",
+    "meaning": "원칙"
+  },
+  {
+    "id": 232,
+    "hanzi": "运用",
+    "pinyin": "yùnyòng",
+    "meaning": "운용하다"
+  },
+  {
+    "id": 233,
+    "hanzi": "增加",
+    "pinyin": "zēngjiā",
+    "meaning": "증가하다"
+  },
+  {
+    "id": 234,
+    "hanzi": "展示",
+    "pinyin": "zhǎnshì",
+    "meaning": "전시하다"
+  },
+  {
+    "id": 235,
+    "hanzi": "整体",
+    "pinyin": "zhěngtǐ",
+    "meaning": "전체"
+  },
+  {
+    "id": 236,
+    "hanzi": "政策",
+    "pinyin": "zhèngcè",
+    "meaning": "정책"
+  },
+  {
+    "id": 237,
+    "hanzi": "支持",
+    "pinyin": "zhīchí",
+    "meaning": "지지하다"
+  },
+  {
+    "id": 238,
+    "hanzi": "执行",
+    "pinyin": "zhíxíng",
+    "meaning": "집행하다"
+  },
+  {
+    "id": 239,
+    "hanzi": "制度",
+    "pinyin": "zhìdù",
+    "meaning": "제도"
+  },
+  {
+    "id": 240,
+    "hanzi": "质量",
+    "pinyin": "zhìliàng",
+    "meaning": "품질"
+  },
+  {
+    "id": 241,
+    "hanzi": "智慧",
+    "pinyin": "zhìhuì",
+    "meaning": "지혜"
+  },
+  {
+    "id": 242,
+    "hanzi": "重视",
+    "pinyin": "zhòngshì",
+    "meaning": "중시하다"
+  },
+  {
+    "id": 243,
+    "hanzi": "主要",
+    "pinyin": "zhǔyào",
+    "meaning": "주요한"
+  },
+  {
+    "id": 244,
+    "hanzi": "专业",
+    "pinyin": "zhuānyè",
+    "meaning": "전공, 전문"
+  },
+  {
+    "id": 245,
+    "hanzi": "状况",
+    "pinyin": "zhuàngkuàng",
+    "meaning": "상황"
+  },
+  {
+    "id": 246,
+    "hanzi": "资源",
+    "pinyin": "zīyuán",
+    "meaning": "자원"
+  },
+  {
+    "id": 247,
+    "hanzi": "综合",
+    "pinyin": "zōnghé",
+    "meaning": "종합적이다"
+  },
+  {
+    "id": 248,
+    "hanzi": "总结",
+    "pinyin": "zǒngjié",
+    "meaning": "정리하다"
+  },
+  {
+    "id": 249,
+    "hanzi": "作用",
+    "pinyin": "zuòyòng",
+    "meaning": "역할, 작용"
+  },
+  {
+    "id": 250,
+    "hanzi": "做到",
+    "pinyin": "zuòdào",
+    "meaning": "해내다"
+  },
+  {
+    "id": 251,
+    "hanzi": "安排",
+    "pinyin": "ānpái",
+    "meaning": "배치하다, 안배하다"
+  },
+  {
+    "id": 252,
+    "hanzi": "按照",
+    "pinyin": "ànzhào",
+    "meaning": "~에 따라"
+  },
+  {
+    "id": 253,
+    "hanzi": "保障",
+    "pinyin": "bǎozhàng",
+    "meaning": "보장하다"
+  },
+  {
+    "id": 254,
+    "hanzi": "变得",
+    "pinyin": "biànde",
+    "meaning": "~하게 되다"
+  },
+  {
+    "id": 255,
+    "hanzi": "不仅",
+    "pinyin": "bùjǐn",
+    "meaning": "~뿐만 아니라"
+  },
+  {
+    "id": 256,
+    "hanzi": "产生",
+    "pinyin": "chǎnshēng",
+    "meaning": "생기다, 발생하다"
+  },
+  {
+    "id": 257,
+    "hanzi": "成为",
+    "pinyin": "chéngwéi",
+    "meaning": "~이 되다"
+  },
+  {
+    "id": 258,
+    "hanzi": "充满",
+    "pinyin": "chōngmǎn",
+    "meaning": "가득하다"
+  },
+  {
+    "id": 259,
+    "hanzi": "处理",
+    "pinyin": "chǔlǐ",
+    "meaning": "처리하다"
+  },
+  {
+    "id": 260,
+    "hanzi": "地区",
+    "pinyin": "dìqū",
+    "meaning": "지역"
+  },
+  {
+    "id": 261,
+    "hanzi": "动作",
+    "pinyin": "dòngzuò",
+    "meaning": "동작"
+  },
+  {
+    "id": 262,
+    "hanzi": "方面",
+    "pinyin": "fāngmiàn",
+    "meaning": "방면, 측면"
+  },
+  {
+    "id": 263,
+    "hanzi": "丰富",
+    "pinyin": "fēngfù",
+    "meaning": "풍부하다"
+  },
+  {
+    "id": 264,
+    "hanzi": "感受",
+    "pinyin": "gǎnshòu",
+    "meaning": "느끼다, 느낌"
+  },
+  {
+    "id": 265,
+    "hanzi": "根据",
+    "pinyin": "gēnjù",
+    "meaning": "~에 근거하여"
+  },
+  {
+    "id": 266,
+    "hanzi": "关键",
+    "pinyin": "guānjiàn",
+    "meaning": "관건, 핵심"
+  },
+  {
+    "id": 267,
+    "hanzi": "国际",
+    "pinyin": "guójì",
+    "meaning": "국제"
+  },
+  {
+    "id": 268,
+    "hanzi": "过程",
+    "pinyin": "guòchéng",
+    "meaning": "과정"
+  },
+  {
+    "id": 269,
+    "hanzi": "环境",
+    "pinyin": "huánjìng",
+    "meaning": "환경"
+  },
+  {
+    "id": 270,
+    "hanzi": "活动",
+    "pinyin": "huódòng",
+    "meaning": "활동"
+  },
+  {
+    "id": 271,
+    "hanzi": "机会",
+    "pinyin": "jīhuì",
+    "meaning": "기회"
+  },
+  {
+    "id": 272,
+    "hanzi": "记者",
+    "pinyin": "jìzhě",
+    "meaning": "기자"
+  },
+  {
+    "id": 273,
+    "hanzi": "加强",
+    "pinyin": "jiāqiáng",
+    "meaning": "강화하다"
+  },
+  {
+    "id": 274,
+    "hanzi": "价值",
+    "pinyin": "jiàzhí",
+    "meaning": "가치"
+  },
+  {
+    "id": 275,
+    "hanzi": "坚强",
+    "pinyin": "jiānqiáng",
+    "meaning": "굳세다"
+  },
+  {
+    "id": 276,
+    "hanzi": "交流",
+    "pinyin": "jiāoliú",
+    "meaning": "교류하다"
+  },
+  {
+    "id": 277,
+    "hanzi": "接受",
+    "pinyin": "jiēshòu",
+    "meaning": "받아들이다"
+  },
+  {
+    "id": 278,
+    "hanzi": "今后",
+    "pinyin": "jīnhòu",
+    "meaning": "앞으로"
+  },
+  {
+    "id": 279,
+    "hanzi": "进行",
+    "pinyin": "jìnxíng",
+    "meaning": "진행하다"
+  },
+  {
+    "id": 280,
+    "hanzi": "经验",
+    "pinyin": "jīngyàn",
+    "meaning": "경험"
+  },
+  {
+    "id": 281,
+    "hanzi": "具有",
+    "pinyin": "jùyǒu",
+    "meaning": "지니다, 갖추다"
+  },
+  {
+    "id": 282,
+    "hanzi": "开始",
+    "pinyin": "kāishǐ",
+    "meaning": "시작하다"
+  },
+  {
+    "id": 283,
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "meaning": "~할 수 있다"
+  },
+  {
+    "id": 284,
+    "hanzi": "历史",
+    "pinyin": "lìshǐ",
+    "meaning": "역사"
+  },
+  {
+    "id": 285,
+    "hanzi": "良好",
+    "pinyin": "liánghǎo",
+    "meaning": "양호하다"
+  },
+  {
+    "id": 286,
+    "hanzi": "面对",
+    "pinyin": "miànduì",
+    "meaning": "직면하다"
+  },
+  {
+    "id": 287,
+    "hanzi": "民族",
+    "pinyin": "mínzú",
+    "meaning": "민족"
+  },
+  {
+    "id": 288,
+    "hanzi": "目的",
+    "pinyin": "mùdì",
+    "meaning": "목적"
+  },
+  {
+    "id": 289,
+    "hanzi": "努力",
+    "pinyin": "nǔlì",
+    "meaning": "노력하다"
+  },
+  {
+    "id": 290,
+    "hanzi": "判断",
+    "pinyin": "pànduàn",
+    "meaning": "판단하다"
+  },
+  {
+    "id": 291,
+    "hanzi": "配合",
+    "pinyin": "pèihé",
+    "meaning": "협조하다"
+  },
+  {
+    "id": 292,
+    "hanzi": "品质",
+    "pinyin": "pǐnzhì",
+    "meaning": "품질, 인품"
+  },
+  {
+    "id": 293,
+    "hanzi": "评价",
+    "pinyin": "píngjià",
+    "meaning": "평가하다"
+  },
+  {
+    "id": 294,
+    "hanzi": "其中",
+    "pinyin": "qízhōng",
+    "meaning": "그 중"
+  },
+  {
+    "id": 295,
+    "hanzi": "起来",
+    "pinyin": "qǐlái",
+    "meaning": "일어나다, ~하기 시작하다"
+  },
+  {
+    "id": 296,
+    "hanzi": "全面",
+    "pinyin": "quánmiàn",
+    "meaning": "전면적이다"
+  },
+  {
+    "id": 297,
+    "hanzi": "热爱",
+    "pinyin": "rè'ài",
+    "meaning": "열애하다"
+  },
+  {
+    "id": 298,
+    "hanzi": "认为",
+    "pinyin": "rènwéi",
+    "meaning": "~라고 생각하다"
+  },
+  {
+    "id": 299,
+    "hanzi": "日益",
+    "pinyin": "rìyì",
+    "meaning": "날로"
+  },
+  {
+    "id": 300,
+    "hanzi": "如何",
+    "pinyin": "rúhé",
+    "meaning": "어떻게"
+  }
+]

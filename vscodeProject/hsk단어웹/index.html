@@ -1,0 +1,749 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HSK 단어 카드</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Pretendard:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #0f0f13;
+        --surface: #1a1a24;
+        --surface2: #22222f;
+        --border: rgba(255, 255, 255, 0.07);
+        --accent: #7c6eff;
+        --accent2: #a78bfa;
+        --green: #34d399;
+        --red: #f87171;
+        --text: #f1f0ff;
+        --text-muted: #8884a8;
+        --card-bg: #1e1e2e;
+        --radius: 20px;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family:
+          "Pretendard",
+          -apple-system,
+          sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        height: 100dvh;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+      }
+
+      /* ── HOME ── */
+      #home {
+        display: flex;
+        flex-direction: column;
+        height: 100dvh;
+        padding: 0;
+        overflow: hidden;
+      }
+
+      .home-header {
+        padding: 52px 28px 20px;
+        background: linear-gradient(160deg, #1a1030 0%, var(--bg) 100%);
+      }
+
+      .home-header .eyebrow {
+        font-size: 11px;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: var(--accent2);
+        margin-bottom: 8px;
+      }
+
+      .home-header h1 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 1.2;
+        background: linear-gradient(120deg, #fff 0%, var(--accent2) 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      .home-header p {
+        margin-top: 8px;
+        font-size: 14px;
+        color: var(--text-muted);
+      }
+
+      .level-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 10px;
+        padding: 20px 20px 0;
+      }
+
+      .level-btn {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 18px 8px;
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--text);
+        cursor: pointer;
+        transition: all 0.2s;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 6px;
+      }
+
+      .level-btn .dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+      }
+
+      .level-btn:nth-child(1) .dot {
+        background: #93c5fd;
+      }
+      .level-btn:nth-child(2) .dot {
+        background: #6ee7b7;
+      }
+      .level-btn:nth-child(3) .dot {
+        background: #fcd34d;
+      }
+      .level-btn:nth-child(4) .dot {
+        background: #f9a8d4;
+      }
+      .level-btn:nth-child(5) .dot {
+        background: #c4b5fd;
+      }
+      .level-btn:nth-child(6) .dot {
+        background: #fb923c;
+      }
+
+      .level-btn:active {
+        transform: scale(0.96);
+        background: var(--surface2);
+      }
+
+      .home-bottom {
+        padding: 16px 20px 32px;
+        margin-top: auto;
+      }
+
+      .review-btn {
+        width: 100%;
+        padding: 16px;
+        background: linear-gradient(135deg, var(--accent) 0%, #a855f7 100%);
+        border: none;
+        border-radius: 16px;
+        font-size: 16px;
+        font-weight: 600;
+        color: white;
+        cursor: pointer;
+        transition:
+          opacity 0.2s,
+          transform 0.2s;
+        letter-spacing: 0.01em;
+      }
+
+      .review-btn:active {
+        opacity: 0.85;
+        transform: scale(0.98);
+      }
+
+      .wrong-count-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: rgba(124, 110, 255, 0.18);
+        border: 1px solid rgba(124, 110, 255, 0.3);
+        border-radius: 100px;
+        padding: 6px 14px;
+        font-size: 13px;
+        color: var(--accent2);
+        margin-bottom: 12px;
+      }
+
+      /* ── CARD PAGE ── */
+      #cardPage {
+        display: none;
+        flex-direction: column;
+        height: 100dvh;
+      }
+
+      #cardPage.active {
+        display: flex;
+      }
+
+      .card-header {
+        padding: 52px 20px 12px;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        flex-shrink: 0;
+      }
+
+      .back-btn {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 8px 14px;
+        font-size: 14px;
+        color: var(--text-muted);
+        cursor: pointer;
+        transition: all 0.15s;
+      }
+
+      .back-btn:active {
+        opacity: 0.7;
+      }
+
+      .progress-bar-wrap {
+        flex: 1;
+        height: 4px;
+        background: var(--surface2);
+        border-radius: 99px;
+        overflow: hidden;
+      }
+
+      .progress-bar-fill {
+        height: 100%;
+        background: linear-gradient(90deg, var(--accent), var(--accent2));
+        border-radius: 99px;
+        transition: width 0.35s ease;
+      }
+
+      .progress-label {
+        font-size: 12px;
+        color: var(--text-muted);
+        min-width: 40px;
+        text-align: right;
+      }
+
+      /* card area */
+      .card-area {
+        flex: 1;
+        min-height: 0;
+        padding: 12px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .card {
+        width: 100%;
+        max-width: 420px;
+        height: 100%;
+        max-height: 440px;
+        perspective: 1200px;
+        cursor: pointer;
+      }
+
+      .card-inner {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        transform-style: preserve-3d;
+        transition: transform 0.42s cubic-bezier(0.4, 0, 0.2, 1);
+      }
+
+      .card.flip .card-inner {
+        transform: rotateY(180deg);
+      }
+
+      .card-face {
+        position: absolute;
+        inset: 0;
+        background: var(--card-bg);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        padding: 32px 28px;
+        overflow: hidden;
+      }
+
+      .card-face::before {
+        content: "";
+        position: absolute;
+        top: -60px;
+        right: -60px;
+        width: 180px;
+        height: 180px;
+        background: radial-gradient(
+          circle,
+          rgba(124, 110, 255, 0.12) 0%,
+          transparent 70%
+        );
+        pointer-events: none;
+      }
+
+      .card-hint {
+        font-size: 11px;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: 20px;
+      }
+
+      .card-hanzi {
+        font-family: "Noto Serif SC", serif;
+        font-size: 64px;
+        font-weight: 700;
+        color: var(--text);
+        line-height: 1.1;
+        letter-spacing: 0.04em;
+      }
+
+      .card-back {
+        transform: rotateY(180deg);
+      }
+
+      .card-pinyin {
+        font-size: 22px;
+        color: var(--accent2);
+        font-weight: 500;
+        margin-bottom: 16px;
+        letter-spacing: 0.05em;
+      }
+
+      .card-meaning {
+        font-size: 18px;
+        color: var(--text);
+        text-align: center;
+        line-height: 1.7;
+      }
+
+      .flip-hint {
+        position: absolute;
+        bottom: 20px;
+        font-size: 12px;
+        color: var(--text-muted);
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+
+      /* swipe hint arrows */
+      .swipe-hint {
+        font-size: 11px;
+        color: var(--text-muted);
+        text-align: center;
+        padding: 4px 0 8px;
+        flex-shrink: 0;
+      }
+
+      /* controls */
+      .controls {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+        padding: 12px 20px 36px;
+        flex-shrink: 0;
+      }
+
+      .btn-wrong,
+      .btn-known {
+        border: none;
+        border-radius: 18px;
+        padding: 18px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.18s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+      }
+
+      .btn-wrong {
+        background: rgba(248, 113, 113, 0.12);
+        border: 1px solid rgba(248, 113, 113, 0.25);
+        color: var(--red);
+      }
+
+      .btn-full {
+        grid-column: 1 / -1;
+      }
+
+      .btn-known {
+        background: rgba(52, 211, 153, 0.12);
+        border: 1px solid rgba(52, 211, 153, 0.25);
+        color: var(--green);
+      }
+
+      .btn-wrong:active {
+        background: rgba(248, 113, 113, 0.22);
+        transform: scale(0.97);
+      }
+      .btn-known:active {
+        background: rgba(52, 211, 153, 0.22);
+        transform: scale(0.97);
+      }
+
+      /* toast */
+      .toast {
+        position: fixed;
+        bottom: 110px;
+        left: 50%;
+        transform: translateX(-50%) translateY(10px);
+        background: rgba(30, 30, 46, 0.95);
+        border: 1px solid var(--border);
+        backdrop-filter: blur(12px);
+        color: var(--text);
+        padding: 10px 20px;
+        border-radius: 100px;
+        font-size: 13px;
+        opacity: 0;
+        transition:
+          opacity 0.25s,
+          transform 0.25s;
+        white-space: nowrap;
+        pointer-events: none;
+        z-index: 100;
+      }
+
+      .toast.show {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+      }
+
+      /* done state */
+      .done-emoji {
+        font-size: 56px;
+        margin-bottom: 16px;
+      }
+
+      .done-text {
+        font-size: 22px;
+        font-weight: 600;
+        color: var(--text);
+      }
+
+      .done-sub {
+        font-size: 14px;
+        color: var(--text-muted);
+        margin-top: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- 홈 -->
+    <div id="home">
+      <div class="home-header">
+        <div class="eyebrow">중국어 단어장</div>
+        <h1>HSK<br />플래시카드</h1>
+        <p>스와이프하며 단어를 익히세요</p>
+      </div>
+
+      <div class="level-grid">
+        <button class="level-btn" onclick="startLevel(1)">
+          <span class="dot"></span>HSK 1
+        </button>
+        <button class="level-btn" onclick="startLevel(2)">
+          <span class="dot"></span>HSK 2
+        </button>
+        <button class="level-btn" onclick="startLevel(3)">
+          <span class="dot"></span>HSK 3
+        </button>
+        <button class="level-btn" onclick="startLevel(4)">
+          <span class="dot"></span>HSK 4
+        </button>
+        <button class="level-btn" onclick="startLevel(5)">
+          <span class="dot"></span>HSK 5
+        </button>
+        <button class="level-btn" onclick="startLevel(6)">
+          <span class="dot"></span>HSK 6
+        </button>
+      </div>
+
+      <div class="home-bottom">
+        <div class="wrong-count-badge" id="wrongBadge">
+          ✦ 모르는 단어 <span id="wrongCount">0</span>개
+        </div>
+        <button class="review-btn" onclick="startWrongMode()">
+          모르는 단어만 복습하기 →
+        </button>
+      </div>
+    </div>
+
+    <!-- 카드 페이지 -->
+    <div id="cardPage">
+      <div class="card-header">
+        <button class="back-btn" onclick="goHome()">← 뒤로</button>
+        <div class="progress-bar-wrap">
+          <div
+            class="progress-bar-fill"
+            id="progressFill"
+            style="width: 0%"
+          ></div>
+        </div>
+        <div class="progress-label" id="progressLabel">0 / 0</div>
+      </div>
+
+      <div class="card-area" style="position: relative">
+        <div class="card" id="card">
+          <div class="card-inner">
+            <div class="card-face" id="front">
+              <div class="card-hint">탭하여 뒤집기</div>
+              <div class="card-hanzi" id="frontText"></div>
+              <div class="flip-hint">↺ 탭</div>
+            </div>
+            <div class="card-face card-back" id="back">
+              <div class="card-hint">뜻</div>
+              <div class="card-pinyin" id="backPinyin"></div>
+              <div class="card-meaning" id="backMeaning"></div>
+            </div>
+          </div>
+        </div>
+        <div
+          id="doneOverlay"
+          style="
+            display: none;
+            position: absolute;
+            inset: 0;
+            background: var(--card-bg);
+            border-radius: 24px;
+            border: 1px solid var(--border);
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+          "
+        >
+          <div style="font-size: 52px">🎉</div>
+          <div style="font-size: 22px; font-weight: 600; color: var(--text)">
+            완료!
+          </div>
+          <div style="font-size: 14px; color: var(--text-muted)">
+            모든 단어를 학습했어요
+          </div>
+        </div>
+      </div>
+
+      <div class="swipe-hint">← 스와이프하여 다음 단어 →</div>
+
+      <div class="controls" id="controls">
+        <button class="btn-wrong btn-full" id="btnWrong" onclick="markWrong()">
+          ✕ 모르는 단어
+        </button>
+        <button class="btn-known" id="btnKnown" onclick="markKnown()">
+          ✓ 알았어요
+        </button>
+      </div>
+    </div>
+
+    <div id="toast" class="toast"></div>
+
+    <script>
+      let currentWords = [];
+      let wrongWords = [];
+      let index = 0;
+      let startTotal = 0;
+      let isReviewMode = false;
+
+      function setReviewMode(flag) {
+        isReviewMode = flag;
+        const btnKnown = document.getElementById("btnKnown");
+        const btnWrong = document.getElementById("btnWrong");
+        if (flag) {
+          btnKnown.style.display = "";
+          btnWrong.classList.remove("btn-full");
+        } else {
+          btnKnown.style.display = "none";
+          btnWrong.classList.add("btn-full");
+        }
+      }
+
+      function updateWrongBadge() {
+        document.getElementById("wrongCount").textContent = wrongWords.length;
+      }
+
+      function showCardPage() {
+        document.getElementById("home").style.display = "none";
+        document.getElementById("cardPage").classList.add("active");
+      }
+
+      function goHome() {
+        document.getElementById("home").style.display = "flex";
+        document.getElementById("cardPage").classList.remove("active");
+        updateWrongBadge();
+      }
+
+      async function loadLevel(level) {
+        const res = await fetch(`data/hsk${level}.json`);
+        currentWords = await res.json();
+        currentWords.sort(() => Math.random() - 0.5);
+      }
+
+      async function startLevel(level) {
+        await loadLevel(level);
+        index = 0;
+        startTotal = currentWords.length;
+        hideDone();
+        document.getElementById("card").classList.remove("flip");
+        setReviewMode(false);
+        showCardPage();
+        showWord();
+        updateProgress();
+      }
+
+      function showWord() {
+        const w = currentWords[index];
+        if (!w) return;
+        document.getElementById("frontText").textContent = w.hanzi;
+        document.getElementById("backPinyin").textContent = w.pinyin;
+        document.getElementById("backMeaning").textContent = w.meaning;
+        updateProgress();
+      }
+
+      function showDone() {
+        document.getElementById("card").style.visibility = "hidden";
+        const overlay = document.getElementById("doneOverlay");
+        overlay.style.display = "flex";
+      }
+
+      function hideDone() {
+        document.getElementById("card").style.visibility = "";
+        document.getElementById("doneOverlay").style.display = "none";
+      }
+
+      function updateProgress() {
+        const total = startTotal || currentWords.length;
+        const done = total - currentWords.length + index;
+        const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+        document.getElementById("progressFill").style.width = pct + "%";
+        document.getElementById("progressLabel").textContent =
+          `${index + 1} / ${currentWords.length}`;
+      }
+
+      document.getElementById("card").addEventListener("click", () => {
+        document.getElementById("card").classList.toggle("flip");
+      });
+
+      function nextWord() {
+        index = (index + 1) % currentWords.length;
+        document.getElementById("card").classList.remove("flip");
+        setTimeout(showWord, 50);
+      }
+
+      let startX = 0,
+        startY = 0;
+      const card = document.getElementById("card");
+
+      card.addEventListener(
+        "touchstart",
+        (e) => {
+          startX = e.touches[0].clientX;
+          startY = e.touches[0].clientY;
+        },
+        { passive: true },
+      );
+
+      card.addEventListener("touchend", (e) => {
+        const dx = startX - e.changedTouches[0].clientX;
+        const dy = Math.abs(startY - e.changedTouches[0].clientY);
+        if (Math.abs(dx) > 50 && dy < 60) nextWord();
+      });
+
+      card.addEventListener("mousedown", (e) => {
+        startX = e.clientX;
+      });
+      card.addEventListener("mouseup", (e) => {
+        if (Math.abs(startX - e.clientX) > 50) nextWord();
+      });
+
+      function loadWrongWords() {
+        try {
+          const d = localStorage.getItem("wrongWords");
+          if (d)
+            wrongWords = JSON.parse(d).filter(
+              (x) => x && (x.id != null || x.hanzi),
+            );
+        } catch (e) {
+          wrongWords = [];
+          localStorage.removeItem("wrongWords");
+        }
+        updateWrongBadge();
+      }
+
+      function saveWrongWords() {
+        localStorage.setItem("wrongWords", JSON.stringify(wrongWords));
+      }
+
+      function showToast(msg) {
+        const t = document.getElementById("toast");
+        t.textContent = msg;
+        t.classList.add("show");
+        setTimeout(() => t.classList.remove("show"), 1600);
+      }
+
+      const wordKey = (w) => w.hanzi;
+
+      function markWrong() {
+        const w = currentWords[index];
+        if (!w) return;
+        if (!wrongWords.some((x) => wordKey(x) === wordKey(w))) {
+          wrongWords.push(w);
+          saveWrongWords();
+          updateWrongBadge();
+          showToast("저장했어요 📌");
+        } else {
+          showToast("이미 저장된 단어예요");
+        }
+        nextWord();
+      }
+
+      function markKnown() {
+        const w = currentWords[index];
+        if (!w) return;
+        wrongWords = wrongWords.filter((x) => wordKey(x) !== wordKey(w));
+        saveWrongWords();
+        updateWrongBadge();
+
+        if (isReviewMode) {
+          currentWords = currentWords.filter((x) => wordKey(x) !== wordKey(w));
+          if (!currentWords.length) {
+            showDone();
+            return;
+          }
+          index = index % currentWords.length;
+          document.getElementById("card").classList.remove("flip");
+          showWord();
+        } else {
+          nextWord();
+        }
+      }
+
+      function startWrongMode() {
+        loadWrongWords();
+        if (!wrongWords.length) {
+          showToast("모르는 단어가 없어요 🎉");
+          return;
+        }
+        currentWords = [...wrongWords].sort(() => Math.random() - 0.5);
+        startTotal = currentWords.length;
+        index = 0;
+        hideDone();
+        setReviewMode(true);
+        showCardPage();
+        showWord();
+      }
+
+      loadWrongWords();
+    </script>
+  </body>
+</html>

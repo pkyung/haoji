@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "hanzi": "哀悼",
+    "pinyin": "āidào",
+    "meaning": "애도하다"
+  },
+  {
+    "id": 2,
+    "hanzi": "暧昧",
+    "pinyin": "àimèi",
+    "meaning": "모호하다, 애매하다"
+  },
+  {
+    "id": 3,
+    "hanzi": "安抚",
+    "pinyin": "ānfǔ",
+    "meaning": "달래다"
+  },
+  {
+    "id": 4,
+    "hanzi": "懊悔",
+    "pinyin": "àohuǐ",
+    "meaning": "후회하다"
+  },
+  {
+    "id": 5,
+    "hanzi": "跋涉",
+    "pinyin": "báshè",
+    "meaning": "힘들게 걷다"
+  },
+  {
+    "id": 6,
+    "hanzi": "白费",
+    "pinyin": "báifèi",
+    "meaning": "헛수고하다"
+  },
+  {
+    "id": 7,
+    "hanzi": "颁布",
+    "pinyin": "bānbù",
+    "meaning": "반포하다"
+  },
+  {
+    "id": 8,
+    "hanzi": "颁发",
+    "pinyin": "bānfā",
+    "meaning": "수여하다"
+  },
+  {
+    "id": 9,
+    "hanzi": "傍",
+    "pinyin": "bàng",
+    "meaning": "곁에 있다"
+  },
+  {
+    "id": 10,
+    "hanzi": "包庇",
+    "pinyin": "bāobì",
+    "meaning": "비호하다"
+  },
+  {
+    "id": 11,
+    "hanzi": "抱负",
+    "pinyin": "bàofù",
+    "meaning": "포부"
+  },
+  {
+    "id": 12,
+    "hanzi": "卑鄙",
+    "pinyin": "bēibǐ",
+    "meaning": "비열하다"
+  },
+  {
+    "id": 13,
+    "hanzi": "悲哀",
+    "pinyin": "bēi'āi",
+    "meaning": "슬프다"
+  },
+  {
+    "id": 14,
+    "hanzi": "悲惨",
+    "pinyin": "bēicǎn",
+    "meaning": "비참하다"
+  },
+  {
+    "id": 15,
+    "hanzi": "奔波",
+    "pinyin": "bēnbō",
+    "meaning": "바쁘게 돌아다니다"
+  },
+  {
+    "id": 16,
+    "hanzi": "崩溃",
+    "pinyin": "bēngkuì",
+    "meaning": "붕괴하다"
+  },
+  {
+    "id": 17,
+    "hanzi": "鄙视",
+    "pinyin": "bǐshì",
+    "meaning": "경멸하다"
+  },
+  {
+    "id": 18,
+    "hanzi": "弊端",
+    "pinyin": "bìduān",
+    "meaning": "폐단"
+  },
+  {
+    "id": 19,
+    "hanzi": "辩解",
+    "pinyin": "biànjie",
+    "meaning": "변명하다"
+  },
+  {
+    "id": 20,
+    "hanzi": "辩论",
+    "pinyin": "biànlùn",
+    "meaning": "토론하다"
+  },
+  {
+    "id": 21,
+    "hanzi": "标志",
+    "pinyin": "biāozhì",
+    "meaning": "표지, 상징"
+  },
+  {
+    "id": 22,
+    "hanzi": "波动",
+    "pinyin": "bōdòng",
+    "meaning": "파동, 변동"
+  },
+  {
+    "id": 23,
+    "hanzi": "剥削",
+    "pinyin": "bōxuē",
+    "meaning": "착취하다"
+  },
+  {
+    "id": 24,
+    "hanzi": "搏斗",
+    "pinyin": "bódòu",
+    "meaning": "격투하다"
+  },
+  {
+    "id": 25,
+    "hanzi": "不妨",
+    "pinyin": "bùfáng",
+    "meaning": "~해도 괜찮다"
+  },
+  {
+    "id": 26,
+    "hanzi": "不可思议",
+    "pinyin": "bùkě sīyì",
+    "meaning": "불가사의하다"
+  },
+  {
+    "id": 27,
+    "hanzi": "不择手段",
+    "pinyin": "bùzé shǒuduàn",
+    "meaning": "수단을 가리지 않다"
+  },
+  {
+    "id": 28,
+    "hanzi": "残忍",
+    "pinyin": "cánrěn",
+    "meaning": "잔인하다"
+  },
+  {
+    "id": 29,
+    "hanzi": "惭愧",
+    "pinyin": "cánkuì",
+    "meaning": "부끄럽다"
+  },
+  {
+    "id": 30,
+    "hanzi": "操纵",
+    "pinyin": "cāozòng",
+    "meaning": "조종하다"
+  },
+  {
+    "id": 31,
+    "hanzi": "草率",
+    "pinyin": "cǎoshuài",
+    "meaning": "경솔하다"
+  },
+  {
+    "id": 32,
+    "hanzi": "阐述",
+    "pinyin": "chǎnshù",
+    "meaning": "설명하다"
+  },
+  {
+    "id": 33,
+    "hanzi": "缠绕",
+    "pinyin": "chánrào",
+    "meaning": "감다, 얽히다"
+  },
+  {
+    "id": 34,
+    "hanzi": "倡导",
+    "pinyin": "chàngdǎo",
+    "meaning": "제창하다"
+  },
+  {
+    "id": 35,
+    "hanzi": "超越",
+    "pinyin": "chāoyuè",
+    "meaning": "초월하다"
+  },
+  {
+    "id": 36,
+    "hanzi": "沉淀",
+    "pinyin": "chéndiàn",
+    "meaning": "침전하다"
+  },
+  {
+    "id": 37,
+    "hanzi": "沉浸",
+    "pinyin": "chénjìn",
+    "meaning": "몰입하다"
+  },
+  {
+    "id": 38,
+    "hanzi": "陈述",
+    "pinyin": "chénshù",
+    "meaning": "진술하다"
+  },
+  {
+    "id": 39,
+    "hanzi": "惩罚",
+    "pinyin": "chéngfá",
+    "meaning": "처벌하다"
+  },
+  {
+    "id": 40,
+    "hanzi": "驰名",
+    "pinyin": "chímíng",
+    "meaning": "유명하다"
+  },
+  {
+    "id": 41,
+    "hanzi": "冲击",
+    "pinyin": "chōngjī",
+    "meaning": "충격"
+  },
+  {
+    "id": 42,
+    "hanzi": "抽象",
+    "pinyin": "chōuxiàng",
+    "meaning": "추상적이다"
+  },
+  {
+    "id": 43,
+    "hanzi": "丑陋",
+    "pinyin": "chǒulòu",
+    "meaning": "추하다"
+  },
+  {
+    "id": 44,
+    "hanzi": "出路",
+    "pinyin": "chūlù",
+    "meaning": "출구, 활로"
+  },
+  {
+    "id": 45,
+    "hanzi": "处境",
+    "pinyin": "chǔjìng",
+    "meaning": "처지, 상황"
+  },
+  {
+    "id": 46,
+    "hanzi": "触犯",
+    "pinyin": "chùfàn",
+    "meaning": "범하다, 건드리다"
+  },
+  {
+    "id": 47,
+    "hanzi": "慈善",
+    "pinyin": "císhàn",
+    "meaning": "자선"
+  },
+  {
+    "id": 48,
+    "hanzi": "磁场",
+    "pinyin": "cíchǎng",
+    "meaning": "자기장"
+  },
+  {
+    "id": 49,
+    "hanzi": "聪颖",
+    "pinyin": "cōngyǐng",
+    "meaning": "총명하다"
+  },
+  {
+    "id": 50,
+    "hanzi": "从容",
+    "pinyin": "cóngróng",
+    "meaning": "침착하다"
+  },
+  {
+    "id": 51,
+    "hanzi": "粗糙",
+    "pinyin": "cūcāo",
+    "meaning": "거칠다"
+  },
+  {
+    "id": 52,
+    "hanzi": "脆弱",
+    "pinyin": "cuìruò",
+    "meaning": "취약하다"
+  },
+  {
+    "id": 53,
+    "hanzi": "挫折",
+    "pinyin": "cuòzhé",
+    "meaning": "좌절"
+  },
+  {
+    "id": 54,
+    "hanzi": "打击",
+    "pinyin": "dǎjī",
+    "meaning": "타격을 주다"
+  },
+  {
+    "id": 55,
+    "hanzi": "打扰",
+    "pinyin": "dǎrǎo",
+    "meaning": "방해하다"
+  },
+  {
+    "id": 56,
+    "hanzi": "大肆",
+    "pinyin": "dàsì",
+    "meaning": "마구, 제멋대로"
+  },
+  {
+    "id": 57,
+    "hanzi": "呆滞",
+    "pinyin": "dāizhì",
+    "meaning": "멍하다, 침체되다"
+  },
+  {
+    "id": 58,
+    "hanzi": "担忧",
+    "pinyin": "dānyōu",
+    "meaning": "걱정하다"
+  },
+  {
+    "id": 59,
+    "hanzi": "道德",
+    "pinyin": "dàodé",
+    "meaning": "도덕"
+  },
+  {
+    "id": 60,
+    "hanzi": "道理",
+    "pinyin": "dàolǐ",
+    "meaning": "이치, 도리"
+  },
+  {
+    "id": 61,
+    "hanzi": "得罪",
+    "pinyin": "dézuì",
+    "meaning": "죄를 짓다, 기분 상하게 하다"
+  },
+  {
+    "id": 62,
+    "hanzi": "抵抗",
+    "pinyin": "dǐkàng",
+    "meaning": "저항하다"
+  },
+  {
+    "id": 63,
+    "hanzi": "抵制",
+    "pinyin": "dǐzhì",
+    "meaning": "거부하다"
+  },
+  {
+    "id": 64,
+    "hanzi": "点缀",
+    "pinyin": "diǎnzhuì",
+    "meaning": "장식하다"
+  },
+  {
+    "id": 65,
+    "hanzi": "刁难",
+    "pinyin": "diāonàn",
+    "meaning": "트집을 잡다"
+  },
+  {
+    "id": 66,
+    "hanzi": "顶峰",
+    "pinyin": "dǐngfēng",
+    "meaning": "정상, 절정"
+  },
+  {
+    "id": 67,
+    "hanzi": "洞察",
+    "pinyin": "dòngchá",
+    "meaning": "통찰하다"
+  },
+  {
+    "id": 68,
+    "hanzi": "独立",
+    "pinyin": "dúlì",
+    "meaning": "독립하다"
+  },
+  {
+    "id": 69,
+    "hanzi": "杜绝",
+    "pinyin": "dùjué",
+    "meaning": "근절하다"
+  },
+  {
+    "id": 70,
+    "hanzi": "度过",
+    "pinyin": "dùguò",
+    "meaning": "보내다, 지내다"
+  },
+  {
+    "id": 71,
+    "hanzi": "堕落",
+    "pinyin": "duòluò",
+    "meaning": "타락하다"
+  },
+  {
+    "id": 72,
+    "hanzi": "发觉",
+    "pinyin": "fājué",
+    "meaning": "발견하다"
+  },
+  {
+    "id": 73,
+    "hanzi": "繁荣",
+    "pinyin": "fánróng",
+    "meaning": "번영하다"
+  },
+  {
+    "id": 74,
+    "hanzi": "反驳",
+    "pinyin": "fǎnbó",
+    "meaning": "반박하다"
+  },
+  {
+    "id": 75,
+    "hanzi": "反思",
+    "pinyin": "fǎnsī",
+    "meaning": "반성하다"
+  },
+  {
+    "id": 76,
+    "hanzi": "犯罪",
+    "pinyin": "fànzuì",
+    "meaning": "범죄를 저지르다"
+  },
+  {
+    "id": 77,
+    "hanzi": "方针",
+    "pinyin": "fāngzhēn",
+    "meaning": "방침"
+  },
+  {
+    "id": 78,
+    "hanzi": "放纵",
+    "pinyin": "fàngzòng",
+    "meaning": "방종하다"
+  },
+  {
+    "id": 79,
+    "hanzi": "废除",
+    "pinyin": "fèichú",
+    "meaning": "폐지하다"
+  },
+  {
+    "id": 80,
+    "hanzi": "奋斗",
+    "pinyin": "fèndòu",
+    "meaning": "분투하다"
+  },
+  {
+    "id": 81,
+    "hanzi": "愤怒",
+    "pinyin": "fènnù",
+    "meaning": "분노하다"
+  },
+  {
+    "id": 82,
+    "hanzi": "丰盛",
+    "pinyin": "fēngshèng",
+    "meaning": "풍성하다"
+  },
+  {
+    "id": 83,
+    "hanzi": "讽刺",
+    "pinyin": "fěngcì",
+    "meaning": "풍자하다"
+  },
+  {
+    "id": 84,
+    "hanzi": "服从",
+    "pinyin": "fúcóng",
+    "meaning": "복종하다"
+  },
+  {
+    "id": 85,
+    "hanzi": "腐败",
+    "pinyin": "fǔbài",
+    "meaning": "부패하다"
+  },
+  {
+    "id": 86,
+    "hanzi": "辜负",
+    "pinyin": "gūfù",
+    "meaning": "저버리다"
+  },
+  {
+    "id": 87,
+    "hanzi": "故意",
+    "pinyin": "gùyì",
+    "meaning": "고의로"
+  },
+  {
+    "id": 88,
+    "hanzi": "关怀",
+    "pinyin": "guānhuái",
+    "meaning": "관심을 갖다"
+  },
+  {
+    "id": 89,
+    "hanzi": "光辉",
+    "pinyin": "guānghuī",
+    "meaning": "찬란하다"
+  },
+  {
+    "id": 90,
+    "hanzi": "规范",
+    "pinyin": "guīfàn",
+    "meaning": "규범"
+  },
+  {
+    "id": 91,
+    "hanzi": "过渡",
+    "pinyin": "guòdù",
+    "meaning": "과도기"
+  },
+  {
+    "id": 92,
+    "hanzi": "害怕",
+    "pinyin": "hàipà",
+    "meaning": "두려워하다"
+  },
+  {
+    "id": 93,
+    "hanzi": "和谐",
+    "pinyin": "héxié",
+    "meaning": "조화롭다"
+  },
+  {
+    "id": 94,
+    "hanzi": "恒心",
+    "pinyin": "héngxīn",
+    "meaning": "항심, 끈기"
+  },
+  {
+    "id": 95,
+    "hanzi": "烘托",
+    "pinyin": "hōngtuō",
+    "meaning": "부각시키다"
+  },
+  {
+    "id": 96,
+    "hanzi": "宏观",
+    "pinyin": "hóngguān",
+    "meaning": "거시적이다"
+  },
+  {
+    "id": 97,
+    "hanzi": "宏伟",
+    "pinyin": "hóngwěi",
+    "meaning": "웅장하다"
+  },
+  {
+    "id": 98,
+    "hanzi": "后悔",
+    "pinyin": "hòuhuǐ",
+    "meaning": "후회하다"
+  },
+  {
+    "id": 99,
+    "hanzi": "忽略",
+    "pinyin": "hūlüè",
+    "meaning": "소홀히 하다"
+  },
+  {
+    "id": 100,
+    "hanzi": "荒谬",
+    "pinyin": "huāngmiù",
+    "meaning": "황당하다"
+  },
+  {
+    "id": 101,
+    "hanzi": "挥霍",
+    "pinyin": "huīhuò",
+    "meaning": "낭비하다"
+  },
+  {
+    "id": 102,
+    "hanzi": "毁灭",
+    "pinyin": "huǐmiè",
+    "meaning": "멸망하다"
+  },
+  {
+    "id": 103,
+    "hanzi": "昏迷",
+    "pinyin": "hūnmí",
+    "meaning": "혼수상태"
+  },
+  {
+    "id": 104,
+    "hanzi": "混乱",
+    "pinyin": "hùnluàn",
+    "meaning": "혼란스럽다"
+  },
+  {
+    "id": 105,
+    "hanzi": "机制",
+    "pinyin": "jīzhì",
+    "meaning": "메커니즘, 체제"
+  },
+  {
+    "id": 106,
+    "hanzi": "嫉妒",
+    "pinyin": "jídù",
+    "meaning": "질투하다"
+  },
+  {
+    "id": 107,
+    "hanzi": "迹象",
+    "pinyin": "jìxiàng",
+    "meaning": "징조"
+  },
+  {
+    "id": 108,
+    "hanzi": "坚韧",
+    "pinyin": "jiānrèn",
+    "meaning": "굳건하다"
+  },
+  {
+    "id": 109,
+    "hanzi": "艰难",
+    "pinyin": "jiānnán",
+    "meaning": "어렵다, 힘들다"
+  },
+  {
+    "id": 110,
+    "hanzi": "监督",
+    "pinyin": "jiāndū",
+    "meaning": "감독하다"
+  },
+  {
+    "id": 111,
+    "hanzi": "简洁",
+    "pinyin": "jiǎnjié",
+    "meaning": "간결하다"
+  },
+  {
+    "id": 112,
+    "hanzi": "骄傲",
+    "pinyin": "jiāo'ào",
+    "meaning": "교만하다, 자랑스럽다"
+  },
+  {
+    "id": 113,
+    "hanzi": "焦虑",
+    "pinyin": "jiāolǜ",
+    "meaning": "불안하다"
+  },
+  {
+    "id": 114,
+    "hanzi": "揭露",
+    "pinyin": "jiēlù",
+    "meaning": "폭로하다"
+  },
+  {
+    "id": 115,
+    "hanzi": "解释",
+    "pinyin": "jiěshì",
+    "meaning": "해석하다"
+  },
+  {
+    "id": 116,
+    "hanzi": "进步",
+    "pinyin": "jìnbù",
+    "meaning": "진보하다"
+  },
+  {
+    "id": 117,
+    "hanzi": "惊慌",
+    "pinyin": "jīnghuāng",
+    "meaning": "놀라다, 당황하다"
+  },
+  {
+    "id": 118,
+    "hanzi": "精华",
+    "pinyin": "jīnghuá",
+    "meaning": "정수, 정화"
+  },
+  {
+    "id": 119,
+    "hanzi": "精确",
+    "pinyin": "jīngquè",
+    "meaning": "정확하다"
+  },
+  {
+    "id": 120,
+    "hanzi": "境界",
+    "pinyin": "jìngjiè",
+    "meaning": "경지"
+  },
+  {
+    "id": 121,
+    "hanzi": "绝望",
+    "pinyin": "juéwàng",
+    "meaning": "절망하다"
+  },
+  {
+    "id": 122,
+    "hanzi": "开明",
+    "pinyin": "kāimíng",
+    "meaning": "개명하다, 깨우치다"
+  },
+  {
+    "id": 123,
+    "hanzi": "慷慨",
+    "pinyin": "kāngkǎi",
+    "meaning": "관대하다, 아낌없다"
+  },
+  {
+    "id": 124,
+    "hanzi": "考验",
+    "pinyin": "kǎoyàn",
+    "meaning": "시험하다, 검증하다"
+  },
+  {
+    "id": 125,
+    "hanzi": "渴望",
+    "pinyin": "kěwàng",
+    "meaning": "갈망하다"
+  },
+  {
+    "id": 126,
+    "hanzi": "恳切",
+    "pinyin": "kěnqiè",
+    "meaning": "간절하다"
+  },
+  {
+    "id": 127,
+    "hanzi": "困惑",
+    "pinyin": "kùnhuò",
+    "meaning": "당혹스럽다"
+  },
+  {
+    "id": 128,
+    "hanzi": "宽容",
+    "pinyin": "kuānróng",
+    "meaning": "관용적이다"
+  },
+  {
+    "id": 129,
+    "hanzi": "滥用",
+    "pinyin": "lànyòng",
+    "meaning": "남용하다"
+  },
+  {
+    "id": 130,
+    "hanzi": "冷漠",
+    "pinyin": "lěngmò",
+    "meaning": "냉담하다"
+  },
+  {
+    "id": 131,
+    "hanzi": "厘清",
+    "pinyin": "líqīng",
+    "meaning": "명확히 하다"
+  },
+  {
+    "id": 132,
+    "hanzi": "理性",
+    "pinyin": "lǐxìng",
+    "meaning": "이성"
+  },
+  {
+    "id": 133,
+    "hanzi": "利益",
+    "pinyin": "lìyì",
+    "meaning": "이익"
+  },
+  {
+    "id": 134,
+    "hanzi": "廉洁",
+    "pinyin": "liánjié",
+    "meaning": "청렴하다"
+  },
+  {
+    "id": 135,
+    "hanzi": "凌乱",
+    "pinyin": "língluàn",
+    "meaning": "어지럽다"
+  },
+  {
+    "id": 136,
+    "hanzi": "隆重",
+    "pinyin": "lóngzhòng",
+    "meaning": "성대하다"
+  },
+  {
+    "id": 137,
+    "hanzi": "轮廓",
+    "pinyin": "lúnkuò",
+    "meaning": "윤곽"
+  },
+  {
+    "id": 138,
+    "hanzi": "落实",
+    "pinyin": "luòshí",
+    "meaning": "실행하다"
+  },
+  {
+    "id": 139,
+    "hanzi": "蔓延",
+    "pinyin": "mànyán",
+    "meaning": "퍼지다"
+  },
+  {
+    "id": 140,
+    "hanzi": "盲目",
+    "pinyin": "mángmù",
+    "meaning": "맹목적이다"
+  },
+  {
+    "id": 141,
+    "hanzi": "冒险",
+    "pinyin": "màoxiǎn",
+    "meaning": "모험하다"
+  },
+  {
+    "id": 142,
+    "hanzi": "弥漫",
+    "pinyin": "mímàn",
+    "meaning": "자욱하다"
+  },
+  {
+    "id": 143,
+    "hanzi": "秘密",
+    "pinyin": "mìmì",
+    "meaning": "비밀"
+  },
+  {
+    "id": 144,
+    "hanzi": "蔑视",
+    "pinyin": "mièshì",
+    "meaning": "멸시하다"
+  },
+  {
+    "id": 145,
+    "hanzi": "敏感",
+    "pinyin": "mǐngǎn",
+    "meaning": "민감하다"
+  },
+  {
+    "id": 146,
+    "hanzi": "模糊",
+    "pinyin": "móhu",
+    "meaning": "흐릿하다"
+  },
+  {
+    "id": 147,
+    "hanzi": "抹杀",
+    "pinyin": "mǒshā",
+    "meaning": "말살하다"
+  },
+  {
+    "id": 148,
+    "hanzi": "谋求",
+    "pinyin": "móuqiú",
+    "meaning": "추구하다"
+  },
+  {
+    "id": 149,
+    "hanzi": "内涵",
+    "pinyin": "nèihán",
+    "meaning": "내포, 함의"
+  },
+  {
+    "id": 150,
+    "hanzi": "凝聚",
+    "pinyin": "níngjù",
+    "meaning": "응집하다"
+  },
+  {
+    "id": 151,
+    "hanzi": "扭曲",
+    "pinyin": "niǔqū",
+    "meaning": "왜곡하다"
+  },
+  {
+    "id": 152,
+    "hanzi": "偶然",
+    "pinyin": "ǒurán",
+    "meaning": "우연히"
+  },
+  {
+    "id": 153,
+    "hanzi": "排斥",
+    "pinyin": "páichì",
+    "meaning": "배척하다"
+  },
+  {
+    "id": 154,
+    "hanzi": "弄清",
+    "pinyin": "nòngqīng",
+    "meaning": "명확히 하다"
+  },
+  {
+    "id": 155,
+    "hanzi": "批判",
+    "pinyin": "pīpàn",
+    "meaning": "비판하다"
+  },
+  {
+    "id": 156,
+    "hanzi": "偏见",
+    "pinyin": "piānjiàn",
+    "meaning": "편견"
+  },
+  {
+    "id": 157,
+    "hanzi": "平静",
+    "pinyin": "píngjìng",
+    "meaning": "평온하다"
+  },
+  {
+    "id": 158,
+    "hanzi": "迫切",
+    "pinyin": "pòqiè",
+    "meaning": "절박하다"
+  },
+  {
+    "id": 159,
+    "hanzi": "潜力",
+    "pinyin": "qiánlì",
+    "meaning": "잠재력"
+  },
+  {
+    "id": 160,
+    "hanzi": "谴责",
+    "pinyin": "qiǎnzé",
+    "meaning": "비난하다"
+  },
+  {
+    "id": 161,
+    "hanzi": "侵犯",
+    "pinyin": "qīnfàn",
+    "meaning": "침범하다"
+  },
+  {
+    "id": 162,
+    "hanzi": "倾向",
+    "pinyin": "qīngxiàng",
+    "meaning": "경향"
+  },
+  {
+    "id": 163,
+    "hanzi": "清廉",
+    "pinyin": "qīnglián",
+    "meaning": "청렴하다"
+  },
+  {
+    "id": 164,
+    "hanzi": "情节",
+    "pinyin": "qíngjié",
+    "meaning": "줄거리, 사정"
+  },
+  {
+    "id": 165,
+    "hanzi": "屈辱",
+    "pinyin": "qūrǔ",
+    "meaning": "굴욕"
+  },
+  {
+    "id": 166,
+    "hanzi": "权威",
+    "pinyin": "quánwēi",
+    "meaning": "권위"
+  },
+  {
+    "id": 167,
+    "hanzi": "确保",
+    "pinyin": "quèbǎo",
+    "meaning": "확보하다"
+  },
+  {
+    "id": 168,
+    "hanzi": "染上",
+    "pinyin": "rǎnshàng",
+    "meaning": "물들다, 걸리다"
+  },
+  {
+    "id": 169,
+    "hanzi": "忍受",
+    "pinyin": "rěnshòu",
+    "meaning": "참다"
+  },
+  {
+    "id": 170,
+    "hanzi": "荣誉",
+    "pinyin": "róngyù",
+    "meaning": "영예"
+  },
+  {
+    "id": 171,
+    "hanzi": "软弱",
+    "pinyin": "ruǎnruò",
+    "meaning": "연약하다"
+  },
+  {
+    "id": 172,
+    "hanzi": "散漫",
+    "pinyin": "sǎnmàn",
+    "meaning": "산만하다"
+  },
+  {
+    "id": 173,
+    "hanzi": "善良",
+    "pinyin": "shànliáng",
+    "meaning": "선량하다"
+  },
+  {
+    "id": 174,
+    "hanzi": "渗透",
+    "pinyin": "shèntòu",
+    "meaning": "침투하다"
+  },
+  {
+    "id": 175,
+    "hanzi": "失误",
+    "pinyin": "shīwù",
+    "meaning": "실수"
+  },
+  {
+    "id": 176,
+    "hanzi": "实质",
+    "pinyin": "shízhì",
+    "meaning": "실질"
+  },
+  {
+    "id": 177,
+    "hanzi": "势力",
+    "pinyin": "shìlì",
+    "meaning": "세력"
+  },
+  {
+    "id": 178,
+    "hanzi": "束缚",
+    "pinyin": "shùfù",
+    "meaning": "속박하다"
+  },
+  {
+    "id": 179,
+    "hanzi": "顺从",
+    "pinyin": "shùncóng",
+    "meaning": "순종하다"
+  },
+  {
+    "id": 180,
+    "hanzi": "妥协",
+    "pinyin": "tuǒxié",
+    "meaning": "타협하다"
+  },
+  {
+    "id": 181,
+    "hanzi": "瞬间",
+    "pinyin": "shùnjiān",
+    "meaning": "순간"
+  },
+  {
+    "id": 182,
+    "hanzi": "思维",
+    "pinyin": "sīwéi",
+    "meaning": "사유, 사고"
+  },
+  {
+    "id": 183,
+    "hanzi": "肃然起敬",
+    "pinyin": "sùrán qǐjìng",
+    "meaning": "경건해지다"
+  },
+  {
+    "id": 184,
+    "hanzi": "缩减",
+    "pinyin": "suōjiǎn",
+    "meaning": "축소하다"
+  },
+  {
+    "id": 185,
+    "hanzi": "贪婪",
+    "pinyin": "tānlán",
+    "meaning": "탐욕스럽다"
+  },
+  {
+    "id": 186,
+    "hanzi": "探索",
+    "pinyin": "tànsuǒ",
+    "meaning": "탐색하다"
+  },
+  {
+    "id": 187,
+    "hanzi": "逃避",
+    "pinyin": "táobì",
+    "meaning": "도피하다"
+  },
+  {
+    "id": 188,
+    "hanzi": "体制",
+    "pinyin": "tǐzhì",
+    "meaning": "체제"
+  },
+  {
+    "id": 189,
+    "hanzi": "天赋",
+    "pinyin": "tiānfù",
+    "meaning": "천부적 재능"
+  },
+  {
+    "id": 190,
+    "hanzi": "挑战",
+    "pinyin": "tiǎozhàn",
+    "meaning": "도전하다"
+  },
+  {
+    "id": 191,
+    "hanzi": "通俗",
+    "pinyin": "tōngsú",
+    "meaning": "통속적이다"
+  },
+  {
+    "id": 192,
+    "hanzi": "投入",
+    "pinyin": "tóurù",
+    "meaning": "투입하다, 몰두하다"
+  },
+  {
+    "id": 193,
+    "hanzi": "透明",
+    "pinyin": "tòumíng",
+    "meaning": "투명하다"
+  },
+  {
+    "id": 194,
+    "hanzi": "退缩",
+    "pinyin": "tuìsuō",
+    "meaning": "뒷걸음치다"
+  },
+  {
+    "id": 195,
+    "hanzi": "歪曲",
+    "pinyin": "wāiqū",
+    "meaning": "왜곡하다"
+  },
+  {
+    "id": 196,
+    "hanzi": "完整",
+    "pinyin": "wánzhěng",
+    "meaning": "완전하다"
+  },
+  {
+    "id": 197,
+    "hanzi": "危机",
+    "pinyin": "wēijī",
+    "meaning": "위기"
+  },
+  {
+    "id": 198,
+    "hanzi": "威胁",
+    "pinyin": "wēixié",
+    "meaning": "위협하다"
+  },
+  {
+    "id": 199,
+    "hanzi": "违背",
+    "pinyin": "wéibèi",
+    "meaning": "어기다"
+  },
+  {
+    "id": 200,
+    "hanzi": "唯一",
+    "pinyin": "wéiyī",
+    "meaning": "유일한"
+  },
+  {
+    "id": 201,
+    "hanzi": "伟大",
+    "pinyin": "wěidà",
+    "meaning": "위대하다"
+  },
+  {
+    "id": 202,
+    "hanzi": "无辜",
+    "pinyin": "wúgū",
+    "meaning": "무고하다"
+  },
+  {
+    "id": 203,
+    "hanzi": "无奈",
+    "pinyin": "wúnài",
+    "meaning": "어쩔 수 없다"
+  },
+  {
+    "id": 204,
+    "hanzi": "误解",
+    "pinyin": "wùjiě",
+    "meaning": "오해하다"
+  },
+  {
+    "id": 205,
+    "hanzi": "侮辱",
+    "pinyin": "wǔrǔ",
+    "meaning": "모욕하다"
+  },
+  {
+    "id": 206,
+    "hanzi": "牺牲",
+    "pinyin": "xīshēng",
+    "meaning": "희생하다"
+  },
+  {
+    "id": 207,
+    "hanzi": "细腻",
+    "pinyin": "xìnì",
+    "meaning": "섬세하다"
+  },
+  {
+    "id": 208,
+    "hanzi": "狭隘",
+    "pinyin": "xiá'ài",
+    "meaning": "편협하다"
+  },
+  {
+    "id": 209,
+    "hanzi": "显著",
+    "pinyin": "xiǎnzhù",
+    "meaning": "현저하다"
+  },
+  {
+    "id": 210,
+    "hanzi": "险峻",
+    "pinyin": "xiǎnjùn",
+    "meaning": "험준하다"
+  },
+  {
+    "id": 211,
+    "hanzi": "向往",
+    "pinyin": "xiàngwǎng",
+    "meaning": "동경하다"
+  },
+  {
+    "id": 212,
+    "hanzi": "消灭",
+    "pinyin": "xiāomiè",
+    "meaning": "소멸하다"
+  },
+  {
+    "id": 213,
+    "hanzi": "协调",
+    "pinyin": "xiétiáo",
+    "meaning": "조정하다"
+  },
+  {
+    "id": 214,
+    "hanzi": "信念",
+    "pinyin": "xìnniàn",
+    "meaning": "신념"
+  },
+  {
+    "id": 215,
+    "hanzi": "信仰",
+    "pinyin": "xìnyǎng",
+    "meaning": "신앙"
+  },
+  {
+    "id": 216,
+    "hanzi": "凶残",
+    "pinyin": "xiōngcán",
+    "meaning": "흉악하다"
+  },
+  {
+    "id": 217,
+    "hanzi": "虚伪",
+    "pinyin": "xūwěi",
+    "meaning": "위선적이다"
+  },
+  {
+    "id": 218,
+    "hanzi": "虚心",
+    "pinyin": "xūxīn",
+    "meaning": "겸손하다"
+  },
+  {
+    "id": 219,
+    "hanzi": "悬念",
+    "pinyin": "xuánniàn",
+    "meaning": "서스펜스, 걱정"
+  },
+  {
+    "id": 220,
+    "hanzi": "严峻",
+    "pinyin": "yánjùn",
+    "meaning": "엄준하다"
+  },
+  {
+    "id": 221,
+    "hanzi": "掩盖",
+    "pinyin": "yǎngài",
+    "meaning": "은폐하다"
+  },
+  {
+    "id": 222,
+    "hanzi": "仰望",
+    "pinyin": "yǎngwàng",
+    "meaning": "우러러보다"
+  },
+  {
+    "id": 223,
+    "hanzi": "依赖",
+    "pinyin": "yīlài",
+    "meaning": "의존하다"
+  },
+  {
+    "id": 224,
+    "hanzi": "一贯",
+    "pinyin": "yīguàn",
+    "meaning": "일관되다"
+  },
+  {
+    "id": 225,
+    "hanzi": "意志",
+    "pinyin": "yìzhì",
+    "meaning": "의지"
+  },
+  {
+    "id": 226,
+    "hanzi": "异常",
+    "pinyin": "yìcháng",
+    "meaning": "이상하다"
+  },
+  {
+    "id": 227,
+    "hanzi": "抑制",
+    "pinyin": "yìzhì",
+    "meaning": "억제하다"
+  },
+  {
+    "id": 228,
+    "hanzi": "忧虑",
+    "pinyin": "yōulǜ",
+    "meaning": "근심하다"
+  },
+  {
+    "id": 229,
+    "hanzi": "舆论",
+    "pinyin": "yúlùn",
+    "meaning": "여론"
+  },
+  {
+    "id": 230,
+    "hanzi": "予以",
+    "pinyin": "yǔyǐ",
+    "meaning": "~을 주다"
+  },
+  {
+    "id": 231,
+    "hanzi": "欲望",
+    "pinyin": "yùwàng",
+    "meaning": "욕망"
+  },
+  {
+    "id": 232,
+    "hanzi": "冤枉",
+    "pinyin": "yuānwang",
+    "meaning": "억울하다"
+  },
+  {
+    "id": 233,
+    "hanzi": "援助",
+    "pinyin": "yuánzhù",
+    "meaning": "원조하다"
+  },
+  {
+    "id": 234,
+    "hanzi": "允许",
+    "pinyin": "yǔnxǔ",
+    "meaning": "허락하다"
+  },
+  {
+    "id": 235,
+    "hanzi": "蕴含",
+    "pinyin": "yùnhán",
+    "meaning": "내포하다"
+  },
+  {
+    "id": 236,
+    "hanzi": "灾难",
+    "pinyin": "zāinàn",
+    "meaning": "재난"
+  },
+  {
+    "id": 237,
+    "hanzi": "遭受",
+    "pinyin": "zāoshòu",
+    "meaning": "당하다"
+  },
+  {
+    "id": 238,
+    "hanzi": "责任",
+    "pinyin": "zérèn",
+    "meaning": "책임"
+  },
+  {
+    "id": 239,
+    "hanzi": "阻碍",
+    "pinyin": "zǔ'ài",
+    "meaning": "방해하다"
+  },
+  {
+    "id": 240,
+    "hanzi": "追求",
+    "pinyin": "zhuīqiú",
+    "meaning": "추구하다"
+  },
+  {
+    "id": 241,
+    "hanzi": "执着",
+    "pinyin": "zhízhuó",
+    "meaning": "집착하다"
+  },
+  {
+    "id": 242,
+    "hanzi": "至关重要",
+    "pinyin": "zhìguān zhòngyào",
+    "meaning": "매우 중요하다"
+  },
+  {
+    "id": 243,
+    "hanzi": "振奋",
+    "pinyin": "zhènfèn",
+    "meaning": "분발하다"
+  },
+  {
+    "id": 244,
+    "hanzi": "珍惜",
+    "pinyin": "zhēnxī",
+    "meaning": "소중히 여기다"
+  },
+  {
+    "id": 245,
+    "hanzi": "正义",
+    "pinyin": "zhèngyì",
+    "meaning": "정의"
+  },
+  {
+    "id": 246,
+    "hanzi": "争议",
+    "pinyin": "zhēngyì",
+    "meaning": "논란"
+  },
+  {
+    "id": 247,
+    "hanzi": "征服",
+    "pinyin": "zhēngfú",
+    "meaning": "정복하다"
+  },
+  {
+    "id": 248,
+    "hanzi": "振作",
+    "pinyin": "zhènzuò",
+    "meaning": "분발하다"
+  },
+  {
+    "id": 249,
+    "hanzi": "遮掩",
+    "pinyin": "zhēyǎn",
+    "meaning": "가리다"
+  },
+  {
+    "id": 250,
+    "hanzi": "折磨",
+    "pinyin": "zhémó",
+    "meaning": "괴롭히다"
+  }
+]
